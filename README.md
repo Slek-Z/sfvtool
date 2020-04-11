@@ -5,7 +5,7 @@ A C++ open-source, multi-platform Simple File Verification (SFV) tool
 
 * [CMake](https://cmake.org/)
 
-* [Boost](https://www.boost.org/) 
+* [Boost](https://www.boost.org/)
 
 ## Usage
 ```

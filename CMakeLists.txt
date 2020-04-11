@@ -26,3 +26,4 @@ include_directories(include ${Boost_INCLUDE_DIRS})
 
 add_executable(sfvtool src/sfvtool.cpp)
 target_link_libraries(sfvtool ${Boost_LIBRARIES})
+install(TARGETS sfvtool DESTINATION bin)
